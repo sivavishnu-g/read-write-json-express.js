@@ -1,0 +1,27 @@
+[
+  {
+    "name": "sivavishnu",
+    "age": 20,
+    "email": "sivavishnu2424@gmail.com"
+  },
+  {
+    "name": "rishi",
+    "age": 17,
+    "email": "rishi36@gmail.com"
+  },
+  {
+    "name": "peter",
+    "age": 24,
+    "email": "peter97@gmail.com"
+  },
+  {
+    "name": "john",
+    "email": "john@gmail.com",
+    "age": "25"
+  },
+  {
+    "name": "butcher",
+    "email": "boys@gmail.com",
+    "age": "47"
+  }
+]
